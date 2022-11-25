@@ -1,2 +1,4 @@
 Meu nome é Marcelo Aparecido Micalowski
 Eu nasci em 22 de fevereiro de 1970
+Sou professor do curso técnico
+Estou usando o git x github
